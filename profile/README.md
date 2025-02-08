@@ -1,6 +1,6 @@
 # 🚀 Welcome to Student Nexus
 
-[![GitHub](https://img.shields.io/github/followers/StudentNexus?style=social)](https://github.com/Student-Nexus-community)
+[![GitHub](https://img.shields.io/github/followers/Student-Nexus-community?style=social)](https://github.com/Student-Nexus-community)
 [![Contributors](https://img.shields.io/github/contributors/Student-Nexus-community/Student-Nexus-community)](https://github.com/Student-Nexus-community/graphs/contributors)
 [![License](https://img.shields.io/github/license/Student-Nexus-community/Student-Nexus-community)](https://github.com/Student-Nexus-community/Student-Nexus-community/blob/main/LICENSE)
 
@@ -49,12 +49,12 @@ We value contributions from everyone! Please make sure to check out our:
 
 Be a part of our growing community and stay updated:
 
-- 🌐 Website: [studentnexus.com](https://studentnexus.com)
-- 🐦 Twitter: [@StudentNexus](https://twitter.com/StudentNexus)
-- 📷 Instagram: [@StudentNexus](https://instagram.com/StudentNexus)
-- 🔗 LinkedIn: [Student Nexus](https://linkedin.com/company/studentnexus)
-- ▶️ YouTube: [Student Nexus](https://youtube.com/@StudentNexus)
-- 📧 Email: contact@studentnexus.com
+- 🌐 Website: [studentnexus.in](https://bento.me/student-nexus)
+- 🐦 Twitter: [@StudentNexus](https://x.com/student_nexus_)
+- 📷 Instagram: [@StudentNexus](https://www.instagram.com/student.nexus/)
+- 🔗 LinkedIn: [Student Nexus](https://www.linkedin.com/company/student-nexus-sn/)
+- ▶️ YouTube: [Student Nexus](https://www.youtube.com/@student-nexus)
+- 📧 Email: info@studentnexus.in
 
 ---
 
