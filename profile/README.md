@@ -1,7 +1,7 @@
 # 🚀 Welcome to Student Nexus
 
 [![GitHub](https://img.shields.io/github/followers/Student-Nexus-community?style=social)](https://github.com/Student-Nexus-community)
-[![Contributors](https://img.shields.io/github/contributors/Student-Nexus-community/Student-Nexus-community)](https://github.com/Student-Nexus-community/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/Student-Nexus-community/Student-Nexus-community)](https://github.com/Student-Nexus-community)
 [![License](https://img.shields.io/github/license/Student-Nexus-community/Student-Nexus-community)](https://github.com/Student-Nexus-community/.github/blob/main/LICENSE)
 
 ## 🌟 About Us
