@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/github/followers/Student-Nexus-community?style=social)](https://github.com/Student-Nexus-community)
 [![Contributors](https://img.shields.io/github/contributors/Student-Nexus-community/Student-Nexus-community)](https://github.com/Student-Nexus-community/graphs/contributors)
-[![License](https://img.shields.io/github/license/Student-Nexus-community/Student-Nexus-community)](https://github.com/Student-Nexus-community/Student-Nexus-community/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/Student-Nexus-community/Student-Nexus-community)](https://github.com/Student-Nexus-community/.github/blob/main/LICENSE)
 
 ## 🌟 About Us
 
