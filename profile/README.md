@@ -34,7 +34,7 @@ At **Student Nexus**, we aim to:
 Want to be part of an exciting learning experience? Here’s how you can get involved:
 
 1. **Star & Fork** ⭐🍴 our repositories to show support and start contributing.
-2. **Join Discussions** 💬 on our [GitHub Discussions](https://github.com/Student-Nexus-community/discussions).
+2. **Join Discussions** 💬 on our [GitHub Discussions](https://github.com/orgs/Student-Nexus-community/discussions).
 3. **Follow Us** 🔔 for the latest updates and events.
 4. **Contribute** 🛠️ to our open-source initiatives as we grow.
 
